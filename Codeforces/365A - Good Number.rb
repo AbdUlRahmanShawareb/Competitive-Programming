@@ -1,5 +1,5 @@
 # AbdUlRahman Shawareb
-# 365
+# 365 - Good Number
 n, k = gets.split.map(&:to_i)
 arr = [n]
 res = 0
